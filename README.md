@@ -17,4 +17,4 @@ ARin is an application that uses Augmented Reality Technology to assist hotel gu
 
 ### See [ARin App Introduction]()
 
-### Download [ARin Apk]()
+### Download [ARin Apk](https://binusianorg-my.sharepoint.com/personal/ronald_sunan_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0ad1e5f97d9cf4db2baed15c5ff0c7cc3&authkey=AbZABCi7XiGUb2BUz5Jeoz4&e=Hg2Xg2)
